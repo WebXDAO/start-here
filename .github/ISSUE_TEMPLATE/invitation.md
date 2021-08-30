@@ -1,0 +1,26 @@
+name: Invite me to the Web 3 Community
+description: I would like to be part of the awesome community
+title: "Please invite me to the community"
+labels: [github-invitation]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Insert your name here
+    validations:
+      required: true
+  - type: input
+    id: discordname
+    attributes:
+      label: Discord Username (if applicable)
+      placeholder: Insert your Discord username here
+    validations:
+      required: false
+  - type: textarea
+    id: Additional
+    attributes:
+      label: Additional Context
+      description: Where did you meet Web 3 Community? What do you like about this community? Why do you want to join?
+    validations:
+      required: true
