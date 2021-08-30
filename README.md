@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome to Web 3 Community Support</h1>
-<img alt= "Banner" src= "https://miro.medium.com/max/1400/0*EBXqB5wJTWFeaT04.gif">
+<img alt= "Banner" src= "/Images/blockchain.gif">
 
 ### How to join the community?
 
@@ -17,6 +17,26 @@
 
 We believe that there is a learning opportunity for everyone in every question! So don't be shamed to ask your question :)
 
+
+**How do I set the Organization to Public?** 
+
+You can make the organization public by:  
+
+- Navigate to our community page: https://github.com/web3community
+  <img src= "./Images/Step1.png">
+- Click on people:
+	
+	<img src="./Images/Step2.png">
+
+- Enter your username or name in the searchbar:
+	
+	<img src="./Images/Step 3.png">
+  
+- Click `Private` (the default) and set it to `Public`:
+	
+	<img src="./Images/Step4.png">
+
+  
 ## About
 
 Best Resources to Learn Blockchain Technologies 
@@ -27,3 +47,10 @@ Best Resources to Learn Blockchain Technologies
 
 Getting Started with Dev Protocol
 - https://docs.devprotocol.xyz/en/
+
+
+### Don't Forget to join our discord 💜
+
+<a href="discord.gg/p68uvd7m"><img src="./Images/discord_logo.png" width="10%" height="10%"></a> 
+
+<img src= "./Images/footer_welcome.gif">
