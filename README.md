@@ -9,16 +9,14 @@
 
 ### Why you should join this community?
 
-- We believe that the interaction with people is very important for anyone's personal growth, Here You will get to interact with some great folks 
-- You can learn together
+- We believe that the interaction with people is very important for anyone's personal growth. Here You will get to interact with some great folks 
+- We can learn together about Web 3 and Blockchain technologies
 - This community is in its initial stage so you can show your leadership skills also
 - The community is diverse and inclusive
 
-
 We believe that there is a learning opportunity for everyone in every question! So don't be shamed to ask your question :)
 
-
-**How do I set the Organization to Public?** 
+### How do I set the Organization to Public?
 
 You can make the organization public by:  
 
