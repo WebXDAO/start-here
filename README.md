@@ -51,7 +51,7 @@ Getting Started with Dev Protocol
 
 ### Don't Forget to join our discord 💜
 
-<a href="https://dhttps://discord.gg/3EN2UVE9mH">
+<a href="https://discord.gg/3EN2UVE9mH">
    <img src="https://img.shields.io/discord/835424705410236427?logo=discord&style=for-the-badge" target="blank" />
 </a>
 
