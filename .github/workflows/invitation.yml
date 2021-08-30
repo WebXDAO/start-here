@@ -12,7 +12,6 @@ jobs:
           organization: web3community
           label: github-invitation
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          comment: '![welcome](https://user-images.githubusercontent.com/73097560/121835696-761b5c80-cd04-11eb-9d9c-6a4f6fb07724.gif)
-<br><b>This is an invitation sent for the GitHub Organisation. Please check your email and accept the invitation. <br><br><br>Welcome to the Web 3 Community 🎉 feel free to explore and contribute!</b>'
+          comment: '![welcome](https://user-images.githubusercontent.com/73097560/121835696-761b5c80-cd04-11eb-9d9c-6a4f6fb07724.gif)<br><b>This is an invitation sent for the GitHub Organisation. Please check your email and accept the invitation. <br><br><br>Welcome to the Web 3 Community 🎉 feel free to explore and contribute!</b>'
         env:
           INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
