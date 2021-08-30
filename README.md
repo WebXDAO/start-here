@@ -2,7 +2,7 @@
 
 This is a new commmunity. We are going to Web 3 technologies together :rocket:
 
-## Guide to join community
+## Join GitHub Organization
 
 - Create [issues](https://github.com/web3community/support/issues/new/choose) to request.
 
