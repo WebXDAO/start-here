@@ -1,15 +1,21 @@
-# Web 3 Community
+<h1 align="center"> Welcome to Web 3 Community Support</h1>
+<img alt= "Banner" src= "https://miro.medium.com/max/1400/0*EBXqB5wJTWFeaT04.gif">
 
-This is a new commmunity. We are going to Web 3 & Blockchain technologies together :rocket:. 
+### How to join the community?
 
-> Since we are new community, I am looking forward to more collaboration, share ideas and many more. We will create Open Source Projects that focus on Web 3 & Blockchain technologies.
+- Raise an <code> [issue](https://github.com/web3community/support/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community)</code> to join the Web 3 community.
 
-## Join GitHub Organization
+> Since we are new community, we are looking forward to more collaboration, share ideas and many more. We will create Open Source Projects that focus on Web 3 & Blockchain technologies.
 
-- Create [issues](https://github.com/web3community/support/issues/new/choose) to request.
+### Why you should join this community?
 
-## Join Discord Community
-- Everyone can join to [discord community](https://discord.gg/3EN2UVE9mH)
+- We believe that the interaction with people is very important for anyone's personal growth, Here You will get to interact with some great folks 
+- You can learn together
+- This community is in its initial stage so you can show your leadership skills also
+- The community is diverse and inclusive
+
+
+We believe that there is a learning opportunity for everyone in every question! So don't be shamed to ask your question :)
 
 ## About
 
