@@ -2,7 +2,7 @@
 
 This is a new commmunity. We are going to Web 3 & Blockchain technologies together :rocket:. 
 
-> Since we are new community, I am looking forward to more collaboration, share ideas and many more. We will create Open Source Projects that focus on Web 3
+> Since we are new community, I am looking forward to more collaboration, share ideas and many more. We will create Open Source Projects that focus on Web 3 & Blockchain technologies.
 
 ## Join GitHub Organization
 
