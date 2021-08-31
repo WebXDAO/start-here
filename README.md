@@ -13,29 +13,13 @@
 - We can learn together about Web 3 and Blockchain technologies
 - This community is in its initial stage so you can show your leadership skills also
 - The community is diverse and inclusive
-
-We believe that there is a learning opportunity for everyone in every question! So don't be shamed to ask your question :)
+- We believe that there is a learning opportunity for everyone in every question! So don't be shamed to ask your question :)
 
 ### How do I set the Organization to Public?
 
-You can make the organization public by:  
-
-- Navigate to our community page: https://github.com/web3community
-  <img src= "./Images/Step1.png">
-- Click on people:
-	
-	<img src="./Images/Step2.png">
-
-- Enter your username or name in the searchbar:
-	
-	<img src="./Images/Step 3.png">
+If you'd like to tell the world which organizations you belong to, you can display the avatars of the organizations on your profile. <a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership">Click me</a> for example. 
   
-- Click `Private` (the default) and set it to `Public`:
-	
-	<img src="./Images/Step4.png">
-
-  
-## About
+### About
 
 Best Resources to Learn Blockchain Technologies 
 - https://www.notion.so/Getting-Started-with-Blockchain-and-Ethereum-92ba0d551e2f46a2adeed5d0e83fb3d0
