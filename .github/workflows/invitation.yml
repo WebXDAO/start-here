@@ -12,7 +12,7 @@ jobs:
           organization: web3community 
           label: github-invitation
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          comment: '![welcome](https://user-images.githubusercontent.com/73097560/121835696-761b5c80-cd04-11eb-9d9c-6a4f6fb07724.gif)<br><b>Invitation sent for the GitHub Organization. Welcome to the community 🎉</b><br><br>Don''t forget after accepting to make it public,You can see how to do it [here](https://github.com/web3community/support/blob/main/README.md)<br></br>you can also join our [Discord](https://discord.gg/wh9FwjR5j7) server'
+          comment: '![welcome](https://user-images.githubusercontent.com/73097560/121835696-761b5c80-cd04-11eb-9d9c-6a4f6fb07724.gif)<br><b>Invitation sent for the GitHub Organization. Welcome to the community 🎉</b><br><br>Don''t forget after accepting to make it public,You can see how to do it [here](https://github.com/web3community/support/blob/main/README.md),<br></br>you can also join our [Discord](https://discord.gg/wh9FwjR5j7) server'
         env:
           INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
 
