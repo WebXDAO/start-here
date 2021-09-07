@@ -5,7 +5,7 @@
 
 - Raise an <code> [issue](https://github.com/web3community/support/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community)</code> to join the Web 3 community.
 
-> Since we are a new community, we are looking forward to more collaboration, share ideas and many more. We will create Open Source Projects that focus on decentralized applications, web 3 & blockchain technologies.
+> Since we are a new community, we are looking forward to more collaboration, share ideas, and many more. We will create Open Source Projects that focus on decentralized applications, web 3 & blockchain technologies.
 
 ### Why you should join this community?
 
