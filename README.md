@@ -5,15 +5,15 @@
 
 - Raise an <code> [issue](https://github.com/web3community/support/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community)</code> to join the Web 3 community.
 
-> Since we are new community, we are looking forward to more collaboration, share ideas and many more. We will create Open Source Projects that focuses on decentralized applications, web 3 & blockchain technologies.
+> Since we are a new community, we are looking forward to more collaboration, share ideas and many more. We will create Open Source Projects that focus on decentralized applications, web 3 & blockchain technologies.
 
 ### Why you should join this community?
 
-- We believe that the interaction with people is very important for anyone's personal growth. Here You will get to interact with some great folks 
+- We believe that interaction with people is very important for anyone's personal growth. Here You will get to interact with some great folks 
 - We can learn together about Web 3 and Blockchain technologies
 - This community is in its initial stage so you can show your leadership skills also
 - The community is diverse and inclusive
-- We believe that there is a learning opportunity for everyone in every question! So don't be shamed to ask your question :)
+- We believe that there is a learning opportunity for everyone in every question! So don't be ashamed to ask your question :)
 
 ### How do I set the Organization to Public?
 
