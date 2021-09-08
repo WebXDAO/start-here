@@ -25,7 +25,7 @@ Getting Started with Dev Protocol and Stakes.social (Documentation)
 - https://docs.devprotocol.xyz/en/
 
 ### For beginner
-if you are new, visit the [blockchain-dev-path](https://github.com/web3community/blockchain-dev-path) repository.
+If you are new to this path, visit the [blockchain-dev-path](https://github.com/web3community/blockchain-dev-path) repository.
 
 ### Don't Forget to join our discord 💜
 
