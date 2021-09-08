@@ -21,15 +21,11 @@ If you'd like to tell the world which organizations you belong to, you can displ
   
 ### About
 
-Best Resources to Learn Blockchain Technologies 
-- https://www.notion.so/Getting-Started-with-Blockchain-and-Ethereum-92ba0d551e2f46a2adeed5d0e83fb3d0
-- https://dev.to/dabit3/the-new-creator-economy-daos-community-ownership-and-cryptoeconomics-lnl
-- https://academy.binance.com/en
-- https://www.postman.com/blockchainnow/workspace/tatum-io/overview
-
-Getting Started with Dev Protocol
+Getting Started with Dev Protocol and Stakes.social (Documentation)
 - https://docs.devprotocol.xyz/en/
 
+### For beginner
+if you are new, visit the [blockchain-dev-path](https://github.com/web3community/blockchain-dev-path) repository.
 
 ### Don't Forget to join our discord 💜
 
