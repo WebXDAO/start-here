@@ -19,6 +19,10 @@
 
 If you'd like to tell the world which organizations you belong to, you can display the avatars of the organizations on your profile. <a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership">Click me</a> for example. 
   
+### Teams
+
+We also have a volunteer [people](https://github.com/orgs/web3community/teams) that helping our community projects such as content writing, designing, and many more. Each team has a private repository to work on. If you want to join the team, feel free to mention us on discord. 
+
 ### About
 
 Getting Started with Dev Protocol and Stakes.social (Documentation)
