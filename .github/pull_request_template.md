@@ -6,7 +6,7 @@ Closes: # <!-- issue number that will be closed through this PR -->
 
 ### Describe the changes you've made
 
-<!-- Give a clear description what modifications you have made -->
+<!-- Give a clear description of what modifications you have made -->
 
 ## Type of change
 
@@ -32,7 +32,7 @@ Example how to mark a checkbox:-
 -->
 - [ ] My code follows the guidelines of this project.
 - [ ] I have performed a self-review of my own code.
-- [ ] I have commented my code, particularly wherever it was hard to understand.
+- [ ] I have commented on my code, particularly wherever it was hard to understand.
 - [ ] I have made corresponding changes to the documentation.
 - [ ] My changes generate no new warnings.
 - [ ] I have added tests that prove my fix is effective or that my feature works.
