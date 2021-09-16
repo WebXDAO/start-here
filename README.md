@@ -27,7 +27,7 @@ If you'd like to tell the world which organizations you belong to, you can displ
 
 ![image](https://user-images.githubusercontent.com/51391473/133660356-65cd3131-ed6e-4d1e-9bcd-cf6412b76662.png)
 
-- That's it! Noww your profile in the organization is visible to anyone! 🎉
+- That's it! Now your profile in the organization is visible to anyone! 🎉
   
 ### Teams
 
