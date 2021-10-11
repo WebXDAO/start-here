@@ -12,7 +12,7 @@ This project and everyone participating in it is governed by a [Code of Conduct]
 
 ### Reporting Bugs 💣
 
-This section guides you through submitting a bug report. Following these guidelines helps maintainers and the community understand your report 📝, reproduce the behavior 💻 💻, and find related reports 🔎.
+This section guides you through submitting a bug report. Following these guidelines helps maintainers and the community understand your report 📝, reproduce the behavior 💻, and find related reports. 🔎
 
 Since the new GitHub Issue forms we only suggest you to include most information possible. But you can also **Perform a [cursory search](https://github.com/web3community/start-here/issues)** to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 
@@ -20,7 +20,7 @@ Since the new GitHub Issue forms we only suggest you to include most information
 
 ### Suggesting Enhancements 🛠
 
-This section guides you through submitting an enhancement suggestion, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion 📝 and find related suggestions 🔎.
+This section guides you through submitting an enhancement suggestion, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion 📝 and find related suggestions. 🔎
 
 Since the new GitHub Issue forms we only suggest you to include most information possible. But you can also **Perform a [cursory search](https://github.com/web3community/start-here/issues)** to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 
@@ -56,7 +56,7 @@ Please follow all instructions in [the template](https://github.com/web3communit
 - Do not end the subject line with a period.
 - Wrap the body at *72 characters*.
 - Use the body to explain the *what*, *why*, *vs*, and *how*.
-- Reference [Issues](https://github.com/web3community/start-here/issues) and [Pull Requests](https://github.com/web3community/start-here/pulls) liberally after the first line.
+- Reference [issues](https://github.com/web3community/start-here/issues) and [pull requests](https://github.com/web3community/start-here/pulls) liberally after the first line.
 - Follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## 🚀 How to Contribute
@@ -67,7 +67,7 @@ Please follow all instructions in [the template](https://github.com/web3communit
 
 - Create a pull request which will be promptly reviewed and suggestions would be added to improve it.
 
-- Add Screenshots to help us know what changes you have done.  
+- Add screenshots to help us know what changes you have done.  
 
 ## 🤔 How to make a pull request
 
@@ -99,18 +99,18 @@ git checkout -b your-branch-name
 git add .
 git commit -m "<your_commit_message>"
 ```
+
 *Follow our commit guide from above*
 
-**7.** Push your local commits to the remote repo.
+**7.** Push your local commits to the remote repository.
 
 ```bash
 git push origin your-branch-name
 ```
 
-**8.** Create a new [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) from ```your-branch-name```
+**8.** Create a new [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) from ```your-branch-name```
 
 **9.** 🎉 Congratulations! You've made your first pull request! Now, you should just wait until the maintainers review your pull request.
-
 
 ## Web3Community 🌐
 
