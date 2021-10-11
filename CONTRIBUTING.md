@@ -114,5 +114,5 @@ git push origin your-branch-name
 
 ## Web3Community 🌐
 
-😕 Not sure where to start? Join our community on [Discord](https://discord.gg/37QFQ7J78B)
-✨ You can also take part in [Community Discussion](https://github.com/web3community/devprotocol.xyz/discussions)
+😕 Not sure where to start? Join our community on [Discord](https://discord.gg/37QFQ7J78B)\
+✨ You can also take part in [Community Discussion](https://github.com/web3community/start-here/discussions)
