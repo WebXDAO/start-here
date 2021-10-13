@@ -12,7 +12,7 @@ jobs:
           organization: web3community 
           label: github-invitation
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          comment: '![welcome](https://user-images.githubusercontent.com/73097560/121835696-761b5c80-cd04-11eb-9d9c-6a4f6fb07724.gif)<br><b>Invitation sent to join the GitHub Organization. Welcome to the community 🎉</b><br><br>🔗Please check your email and accept the invitation.<br>After you accepted, make sure you make your membership public. You can see how to do it [here](https://github.com/web3community/support#how-do-i-set-the-organization-to-public).<br></br>You can also join our [Discord](https://discord.gg/TSRwqx4K2v) server'
+          comment: '![welcome](https://user-images.githubusercontent.com/73097560/121835696-761b5c80-cd04-11eb-9d9c-6a4f6fb07724.gif)<br><b>Invitation sent to join the GitHub Organization. Welcome to Web3Community 🎉</b><br><br>Please check your mail to accept the invitation sent by the bot! 🤖<br><br><h1>About us</h1>An Open Source Community that focuses on decentralized applications, Web3, and Blockchain technologies 💻 Great to have you in our community ✨<br> Looking forward to your valuable contributions! 🤓 You can also check our community [socials](https://bio.link/web3community) ✨ 💛 You can also share about our community with other folks who want to learn Blockchain tech together in an inclusive environment 👉👈'
         env:
           INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
 
