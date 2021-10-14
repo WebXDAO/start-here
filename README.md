@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome to the Web 3 Community Support</h1>
 <img alt= "Banner" src= "/Images/blockchain.gif">
 
-### How to join the community?
+## How to join the community?
 
 - Raise an [issue](https://github.com/web3community/support/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community) to get an invite to join the **Web 3 community**.
 
@@ -9,15 +9,15 @@
 
 ### Why you should join this community?
 
-- We believe that interaction with people is very important for anyone's personal growth. Here You will get to interact with some great folks 
+- We believe that interaction with people is very important for anyone's personal growth. Here You will get to interact with some great folks
 - We can learn together about Web 3 and Blockchain technologies
 - This community is in its initial stage so you can show your leadership skills also
 - The community is diverse and inclusive
 - We believe that there is a learning opportunity for everyone in every question! So don't be ashamed to ask your question :)
 
-### How do I set the Organization to Public?
+## How do I set the Organization to Public?
 
-If you'd like to tell the world which organizations you belong to, you can display the avatars of the organizations on your profile. Check the <a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership">GitHub Docs</a> for how to do this. OR you can also:
+If you'd like to tell the world which organizations you belong to, you can display the avatars of the organizations on your profile. Check the [GitHub Docs](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership) for how to do this. OR you can also:
 
 - Click on the `View all` text.
 
@@ -29,22 +29,23 @@ If you'd like to tell the world which organizations you belong to, you can displ
 
 - That's it! Now your profile in the organization is visible to anyone! 🎉
   
-### Teams
+## Teams
 
-We also have a group of [volunteers](https://github.com/orgs/web3community/teams) that are helping our community projects such as content writing, designing, and many more. Each team has a private repository to work on. If you want to join the team, feel free to mention us on our [Discord]() server. 
+We also have a group of [volunteers](https://github.com/orgs/web3community/teams) that are helping our community projects such as content writing, designing, and many more. Each team has a private repository to work on. If you want to join the team, feel free to mention us on our [Discord](https://discord.gg/TSRwqx4K2v) server.
 
-### About
+## About
 
 Getting Started with Dev Protocol and Stakes.social (Documentation)
+
 - <https://docs.devprotocol.xyz/en/>
 
-### For beginners
+## For beginners
 
 If you are new to this path, visit the [blockchain-dev-path](https://github.com/web3community/blockchain-dev-path) repository.
 
 ### Don't Forget to join our Discord server 💜
 
-<a href="https://discord.gg/3EN2UVE9mH">
+<a href="https://discord.gg/TSRwqx4K2v">
    <img src="https://img.shields.io/discord/835424705410236427?logo=discord&style=for-the-badge" target="blank" />
 </a>
 
