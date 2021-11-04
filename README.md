@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome to the Web 3 Community Support</h1>
-<img alt= "Banner" src= "/Images/blockchain.gif">
+<img alt= "Banner" src= "/assets/blockchain.gif">
 
 ## How to join the community?
 
@@ -49,4 +49,4 @@ If you are new to this path, visit the [blockchain-dev-path](https://github.com/
    <img src="https://img.shields.io/discord/835424705410236427?logo=discord&style=for-the-badge" target="blank" />
 </a>
 
-<img src= "./Images/footer_welcome.gif">
+<img src= "./assets/footer_welcome.gif">
