@@ -4,7 +4,7 @@ title: "[BUG] <bug description>"
 labels: [bug]
 assignees: vinzvinci 
 body:
-  - type: input
+  - type: textarea
     id: bugdescription
     attributes:
       label: Description of the bug
@@ -16,7 +16,7 @@ body:
       label: Please add screenshots (if applicable)
     validations:
       required: false
-  - type: input
+  - type: textarea
     id: context
     attributes:
       label: Add any other context about the problem here
