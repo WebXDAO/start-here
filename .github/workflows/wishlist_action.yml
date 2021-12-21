@@ -1,4 +1,4 @@
-name: "Dear Santa"
+name: "Christmas Wishlist"
 on:
   issue_comment:
   issues:
