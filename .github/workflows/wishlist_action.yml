@@ -1,0 +1,12 @@
+name: "Dear Santa"
+on:
+  issue_comment:
+  issues:
+    types: [labeled]
+
+jobs:
+  dear-santa:
+    if: ${{ github.event.label.name == 'wishlist' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: imjohnbo/dear-santa-action@v1.0.5
