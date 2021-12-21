@@ -1,0 +1,25 @@
+name: Create your wishlist
+description: Create your Christmas Wish List ✨
+title: '[WISH] <description>'
+labels: ['wishlist']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Dear Santa,
+  - type: textarea
+    id: wish
+    attributes:
+      label: Wish
+      description: What are your wishes or wish?
+      placeholder: I'd like to have a computer, I'd like new clothes, ...
+    validations:
+      required: true
+  - type: textarea
+    id: name
+    attributes:
+      label: Your name
+      description: What is your name? Nicknames and pseudonymous are allowed
+      placeholder: David Leal
+    validations:
+      required: true
