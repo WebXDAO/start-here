@@ -1,11 +1,13 @@
+<!-- markdownlint-disable-next-line -->
 <h1 align="center"> Welcome to the Web3 Community Support 🎉</h1>
-<img alt= "Banner" src= "/assets/blockchain.gif">
+
+![Banner](/assets/blockchain.gif)
 
 ## 🤔 How to join the community?
 
 - Raise an [issue](https://github.com/web3community/support/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community) to get an invite to join the **Web3Community**.
 
-> Since we are a new community, we are looking forward to more collaboration, share ideas, and much more. We will create Open Source Projects that focus on decentralized applications, Web3, and blockchain technologies.
+> Since we are a new community, we are looking forward to more collaboration, sharing ideas, and much more. We will create Open Source Projects that focus on decentralized applications, Web3, and Blockchain technologies.
 
 ### 💻 Why you should join this community?
 
@@ -31,7 +33,7 @@ If you'd like to tell the world which organizations you belong to, you can displ
   
 ## 🛠 Teams
 
-We also have a group of [volunteers](https://github.com/orgs/web3community/teams) that are helping our community projects such as content writing, designing, and many more. Each team has a private repository to work on. If you want to join the team, feel free to mention us on our [Discord](https://discord.gg/TSRwqx4K2v) server.
+We also have a group of [volunteers](https://github.com/orgs/web3community/teams) that are helping our community projects such as content writing, designing, and much more. Each team has a private repository to work on. If you want to join the team, feel free to mention us on our [Discord](https://discord.gg/TSRwqx4K2v) server.
 
 ## 🚀 Getting started with Dev Protocol
 
@@ -41,7 +43,7 @@ Getting Started with Dev Protocol and Stakes.social (Documentation)
 
 ## 📚 Blockchain for beginners
 
-If you are new to this path, visit the [blockchain-dev-path](https://github.com/web3community/blockchain-dev-path) repository.
+If you are new to this path, visit the [Blockchain Dev Path](https://github.com/web3community/blockchain-dev-path) repository.
 
 ### Don't forget to join our Discord server 💜
 
@@ -49,4 +51,4 @@ If you are new to this path, visit the [blockchain-dev-path](https://github.com/
    <img src="https://img.shields.io/discord/835424705410236427?logo=discord&style=for-the-badge" target="blank" />
 </a>
 
-<img src= "./assets/footer_welcome.gif">
+![Footer](./assets/footer_welcome.gif)
