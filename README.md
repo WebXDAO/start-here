@@ -52,3 +52,20 @@ If you are new to this path, visit the [Blockchain Dev Path](https://github.com/
 </a>
 
 ![Footer](./assets/footer_welcome.gif)
+<p></p>
+<br>
+
+---
+
+<p align="center"><strong>Connect with us</strong></p>
+<p align="center"> 
+<a href="https://discord.gg/TSRwqx4K2v"><img alt="discord_logo" 
+src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40px" height="45px"/></a>
+&nbsp;
+<a href="https://twitter.com/web3community"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+&nbsp;
+<a href="mailto:web3opensourcecommunity@gmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
+&nbsp;
+<a href="https://github.com/web3community"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/company/web3community"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
