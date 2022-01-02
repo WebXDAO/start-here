@@ -45,10 +45,26 @@ Getting Started with Dev Protocol and Stakes.social (Documentation)
 
 If you are new to this path, visit the [Blockchain Dev Path](https://github.com/web3community/blockchain-dev-path) repository.
 
-### Don't forget to join our Discord server 💜
-
-<a href="https://discord.gg/TSRwqx4K2v">
-   <img src="https://img.shields.io/discord/835424705410236427?logo=discord&style=for-the-badge" target="blank" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><strong>Connect with us</strong></p>
+<p align="center">
 </a>
-
-![Footer](./assets/footer_welcome.gif)
+<a href="https://www.instagram.com/web3community/">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+</a>
+<a href="https://www.linkedin.com/company/web3community/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />  
+</a>
+<a href="https://dsc.gg/web3community">
+   <img src="https://img.shields.io/discord/835424705410236427?logo=discord&style=for-the-badge" target="_blank" />
+</a>
+<a href="https://twitter.com/web3community">
+   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
+</a>
+<a href="mailto:web3opensourcecommunity@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/web3community">
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+</a>
+</p>
