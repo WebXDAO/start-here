@@ -1,4 +1,4 @@
-name: Invite me to the Web3 Community
+name: Invite me to WebXDAO
 description: I would like to be part of the awesome community
 title: "Please invite me to the community"
 labels: [github-invitation]
@@ -21,6 +21,6 @@ body:
     id: Additional
     attributes:
       label: Additional Context
-      description: Where did you meet Web3 Community? What do you like about this community? Why do you want to join?
+      description: Where did you meet WebXDAO? What do you like about this community? Why do you want to join?
     validations:
       required: true
