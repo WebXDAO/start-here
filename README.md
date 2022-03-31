@@ -5,7 +5,7 @@
 
 ## 🤔 How to join the community?
 
-- Raise an [issue](https://github.com/WebXDAO/start-here/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community) to get an invite to join the **WebXDAO**.
+- Raise an [issue](https://github.com/WebXDAO/start-here/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community) to get an invite to join the **WebXDAO** community.
 
 > Since we are a new community, we are looking forward to more collaboration, sharing ideas, and much more. We will create Open Source Projects that focus on decentralized applications, Web3, and Blockchain technologies.
 
