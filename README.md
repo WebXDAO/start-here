@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-next-line -->
 <h1 align="center"> Welcome to the WebXDAO Support 🎉</h1>
 
-![Banner](/assets/blockchain.gif)
+![Banner](https://user-images.githubusercontent.com/72812470/189705065-58fe76da-080b-4798-94fe-2400af2bbfa8.png)
 
 ## 🤔 How to join the community?
 
