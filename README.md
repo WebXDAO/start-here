@@ -3,6 +3,9 @@
 
 ![Banner](https://user-images.githubusercontent.com/72812470/189705065-58fe76da-080b-4798-94fe-2400af2bbfa8.png)
 
+# About us
+At WebX DAO, we are dedicated to supporting the future of the web, including cutting-edge technologies like Web3, Web5, the Metaverse, DeFi, and many other exciting innovations. We strive to be at the forefront of the latest trends in the tech industry, and we believe that blockchain development is one of the most exciting and sought-after fields today. By joining our community, you will have the opportunity to learn from like-minded individuals and contribute to the success of everyone involved. We look forward to helping shape the future of the web together with you.
+
 ## 🤔 How to join the community?
 
 - Raise an [issue](https://github.com/WebXDAO/start-here/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community) to get an invite to join the **WebXDAO** community.
@@ -12,7 +15,7 @@
 ### 💻 Why you should join this community?
 
 - ✅ We believe that interaction with people is very important for anyone's personal growth. Here you will get to interact with some great folks
-- ✅ We can learn together about Web3 and Blockchain technologies
+- ✅ We can learn together about Web3, Metaverse, DeFi, etc.
 - ✅ This community is in its initial stage so you can show your leadership skills
 - ✅ The community is diverse and inclusive
 - ✅ We believe that there is a learning opportunity for everyone in every question! So don't be ashamed to ask your question :)
@@ -68,3 +71,9 @@ If you are new to this path, visit the [Blockchain Dev Path](https://github.com/
 <a href="mailto:webxdao@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+## WebX Co-Founder
+- [@vinzvinci](https://github.com/vinzvinci)
+- [@KukretiShubham](https://github.com/KukretiShubham)
+- [@shuklaritvik06](https://github.com/shuklaritvik06)
+- [@mkubdev](https://github.com/mkubdev)
