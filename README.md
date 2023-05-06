@@ -38,12 +38,6 @@ If you'd like to tell the world which organizations you belong to, you can displ
 
 We also have a group of [volunteers](https://github.com/orgs/WebXDAO/teams) that are helping our community projects such as content writing, designing, and much more. Each team has a private repository to work on. If you want to join the team, feel free to mention us on our [Discord](https://discord.gg/TSRwqx4K2v) server.
 
-## 🚀 Getting started with Dev Protocol
-
-Getting Started with Dev Protocol and Stakes.social (Documentation)
-
-- <https://docs.devprotocol.xyz/en/>
-
 ## 📚 Blockchain for beginners
 
 If you are new to this path, visit the [Blockchain Dev Path](https://github.com/WebXDAO/blockchain-dev-path) repository.
