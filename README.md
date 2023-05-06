@@ -36,7 +36,7 @@ If you'd like to tell the world which organizations you belong to, you can displ
   
 ## 🛠 Teams
 
-We also have a group of [volunteers](https://github.com/orgs/WebXDAO/teams) that are helping our community projects such as content writing, designing, and much more. Each team has a private repository to work on. If you want to join the team, feel free to mention us on our [Discord](https://discord.gg/TSRwqx4K2v) server.
+We also have a group of [volunteers](https://github.com/orgs/WebXDAO/teams) that are helping our community projects such as content writing, designing, and much more. Each team has a private repository to work on. If you want to join the team, feel free to mention us on our [Discord](https://discord.webxdao.xyz/) server.
 
 ## 📚 Blockchain for beginners
 
@@ -46,7 +46,7 @@ If you are new to this path, visit the [Blockchain Dev Path](https://github.com/
 
 ## Community Hangouts
 
-[![Discord Community](https://discord.com/api/guilds/835424705410236427/widget.png?style=banner2)](https://dsc.gg/webxdao) 
+[![Discord Community](https://discord.com/api/guilds/835424705410236427/widget.png?style=banner2)](https://discord.webxdao.xyz/) 
 
 ## Connect with us
 
