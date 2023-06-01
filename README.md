@@ -26,11 +26,11 @@ If you'd like to tell the world which organizations you belong to, you can displ
 
 - Click on the `View all` text.
 
-![image](https://user-images.githubusercontent.com/51391473/133660173-8b63685c-8e7f-48dc-8a7e-e97335941137.png)
+![image](https://github.com/Panquesito7/start-here/assets/51391473/965dec16-8dd9-4da3-82cb-6c7c9a4627bf)
 
 - Set it to the public option.
 
-![image](https://user-images.githubusercontent.com/51391473/133660356-65cd3131-ed6e-4d1e-9bcd-cf6412b76662.png)
+![image](https://github.com/Panquesito7/start-here/assets/51391473/a4db58ee-9a05-4d7b-acce-6c1dc8105a06)
 
 - That's it! Now your profile in the organization is visible to anyone! 🎉
   
